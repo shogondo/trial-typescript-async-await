@@ -1,0 +1,21 @@
+{
+  "name": "trial-typescript-async-await",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoutakenaka/trial-typescript-async-await.git"
+  },
+  "author": "Shou Takenaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shoutakenaka/trial-typescript-async-await/issues"
+  },
+  "homepage": "https://github.com/shoutakenaka/trial-typescript-async-await#readme",
+  "dependencies": {
+    "typescript": "latest"
+  }
+}
